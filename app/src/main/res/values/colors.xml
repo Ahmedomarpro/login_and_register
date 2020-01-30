@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorPrimary">#983CFF</color>
+    <color name="colorPrimaryDark">#64983cff</color>
     <color name="colorAccent">#D81B60</color>
 
     <color name="colorWhite">#ffffff</color>
@@ -9,6 +9,6 @@
     <color name="colorPurpleT">#64983cff</color>
     <color name="colorBlue">#2FB4FF</color>
     <color name="colorBlueT">#642fb4ff</color>
-
+    <color name="mainBackground">#D7D7D7</color>
 
 </resources>

@@ -1,5 +1,9 @@
 <resources>
-    <string name="app_name">Login_and_Register</string>
+    <string name="app_name">Shadow App</string>
+    <string name="details">تفاصيل الــحــالــة</string>
+    <string name="shadow">شــادو تــيــتــشــر</string>
+    <string name="job">وظــــــائـــــف</string>
+    <string name="ides">أفــــكــــارنـــــا</string>
 
 
 </resources>
